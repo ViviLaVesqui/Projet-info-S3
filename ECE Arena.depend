@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1653130742 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\affichagejoueur.c
+	"maBiblio.h"
+
+1653230680 c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<unistd.h>
+
+1667383661 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\attaque.c
+	"maBiblio.h"
+
+1653152874 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\deplacement.c
+	"maBiblio.h"
+
+1652979442 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\ecriture.c
+	"maBiblio.h"
+
+1653210554 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\grilleetath.c
+	"maBiblio.h"
+
+1653230128 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\init.c
+	"maBiblio.h"
+
+1667391368 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\main.c
+	"maBiblio.h"
+
+1667394541 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\menudebut.c
+	"maBiblio.h"
+
+1653154338 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\menufin.c
+	"maBiblio.h"
+
+1653210384 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\menuselection.c
+	"maBiblio.h"
+
+1653225368 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\parametre.c
+	"maBiblio.h"
+
+1653223508 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\pouvoir.c
+	"maBiblio.h"
+
+1653153294 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\range.c
+	"maBiblio.h"
+
+1653225834 source:c:\users\victo\onedrive\bureau\dofus_vinci\ece arena\timer.c
+	"maBiblio.h"
+

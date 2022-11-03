@@ -1,0 +1,16 @@
+10 : bloc entier d'here clair
+11 : bloc entier d'herbe sombre
+12 : juste le haut de l'herbe
+13 : bloc mi-sombre mi-clair
+
+20 : bloc entier de sable clair
+21 : bloc entier de sable sombre
+22 : juste le haut du sable
+23 : bloc mi-sombre mi-clair
+
+30 : bloc entier d'eau clair
+31 : bloc entier d'eau sombre
+32 : juste le haut de l'eau
+33 : bloc mi-sombre mi-clair
+
+41 : haut du bois pour le pont 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ECE Arena Main v3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ECE Arena Main v3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="alleg44.dll" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ECE Arena Main v3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/AffichageJoueur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/Deplacement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/Ecriture.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/Init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/MenuDebut.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/MenuFin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/MenuSelection.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/Range.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/attaque.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/grilleEtATH.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/maBiblio.h" />
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/parametre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/pouvoir.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../Bureau/dofus_vinci/ECE Arena/timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
